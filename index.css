@@ -1,0 +1,45 @@
+body {
+    background: rgb(0, 0, 0);
+    background-image: url(4DX5.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 2500px;
+}
+
+h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    font-size: larger;
+  }
+
+h2 {
+font
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+  p {
+    font-size: medium;
+    font-style: oblique;
+  }
+
+button {
+    border-color: violet;
+    border-radius: 1090px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 100px;
+}
